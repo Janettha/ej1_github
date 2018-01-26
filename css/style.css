@@ -275,7 +275,7 @@ h4 {
 	h4 strong {display:inline-block; line-height:1.2em; color:#ca4b00;}
 	h4 em {display:inline-block; line-height:1.2em; font-style:normal; color:#000;}
 
-h6 {color:#4c4c4c;}
+h6 {color:#fb4c42;}
 
 .border-bot {
 	width:100%; 
@@ -307,7 +307,6 @@ h6 {color:#4c4c4c;}
 	font-family: 'Adamina', serif;
 	font-size:21px;
 	line-height:1.7em;
-	color:#fff; 
 	background:url(../images/button2-tail.gif) 0 0 repeat-x #010101;
 	box-shadow: 0px 2px 3px #888;
 	-moz-box-shadow: 0px 2px 3px #888;
