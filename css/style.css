@@ -48,12 +48,9 @@ p {margin-bottom:18px;}
 .alignright {text-align:right;}
 .aligncenter {text-align:center;}
 
-/*.color-1 {color:#fff;}*/
-.color-1 {color:#f00;}
-/*.color-2 {color:#000;}*/
-.color-2 {color:#00f;}
-/*.color-3 {color:#ca4b00;}*/
-.color-3 {color:#ff4b00;}
+.color-1 {color:#fff;}
+.color-2 {color:#000;}
+.color-3 {color:#ca4b00;}
 
 /*********************************boxes**********************************/
 .inner {padding:20px 0;}
